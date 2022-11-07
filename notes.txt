@@ -1,0 +1,7 @@
+main page
+fruits page
+vegetables page
+offers page
+billing page
+address page
+account page
